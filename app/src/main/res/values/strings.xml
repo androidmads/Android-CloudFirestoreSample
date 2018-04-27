@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cloud Firestore Sample</string>
+    <string name="edt_hint">Type Here…</string>
+    <string name="btn_add">Add</string>
+    <string name="btn_read">Read</string>
+    <string name="btn_update">Update</string>
+    <string name="btn_delete">Delete</string>
+</resources>
